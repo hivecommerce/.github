@@ -10,7 +10,11 @@ We activly support the software development community. We help organize meetups 
 
 Once a year we organize [unKonf](https://www.unKonf.de) an unconference focussing on web development & software development topics. We usually have about 120 nerds in our office for an awesome day of learning.
 
-Also, we love to share our thoughts and experiences in our [blog](https://blog.bitExpert.de). Go check it out! 
+Also, we love to share our thoughts and experiences in our [blog](https://blog.bitExpert.de). These are our latest blog posts covering digital sales topics:
+<!--- blog_start --->
+ - [phpstan-magento 0.30.0 released!](https://blog.bitexpert.de/blog/phpstan-magento-0.30.0)
+ - [Introducing Gally](https://blog.bitexpert.de/blog/introducing_gally_elasticsearch)
+<!--- blog_end --->
 
 ## We are hiring
 
