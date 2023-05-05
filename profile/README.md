@@ -12,6 +12,9 @@ Once a year we organize [unKonf](https://www.unKonf.de) an unconference focussin
 
 Also, we love to share our thoughts and experiences in our [blog](https://blog.bitExpert.de). These are our latest blog posts covering digital sales topics:
 <!--- blog_start --->
+ - [Composer Integrity Plugin](https://blog.bitexpert.de/blog/composer_integrity_plugin)
+ - [Mage Titans Manchester 2023 conference review](https://blog.bitexpert.de/blog/magetitians_manchester_2023_review)
+ - [Magento 2 ERR_TOO_MANY_REDIRECTS](https://blog.bitexpert.de/blog/magento_ssl_redirect_error)
  - [phpstan-magento 0.30.0 released!](https://blog.bitexpert.de/blog/phpstan-magento-0.30.0)
  - [Introducing Gally](https://blog.bitexpert.de/blog/introducing_gally_elasticsearch)
 <!--- blog_end --->
