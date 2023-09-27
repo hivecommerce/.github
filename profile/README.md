@@ -12,11 +12,11 @@ Once a year we organize [unKonf](https://www.unKonf.de) an unconference focussin
 
 Also, we love to share our thoughts and experiences in our [blog](https://blog.bitExpert.de). These are our latest blog posts covering digital sales topics:
 <!--- blog_start --->
+ - [Avoid sending multiple invoice emails in Sylius](https://blog.bitexpert.de/blog/sylius_avoid_sending_multiple_invoice_emails)
  - [Sync Sylius order payment state to an invoice](https://blog.bitexpert.de/blog/sylius_invoice_sync_paymentstate)
  - [Automated Sylius Deployment](https://blog.bitexpert.de/blog/sylius_deployment_pipeline)
  - [Using Gally API](https://blog.bitexpert.de/blog/using_gally_api)
  - [Elasticsuite Sort Relevance Boost](https://blog.bitexpert.de/blog/elasticsuite_sort_relevance_boost)
- - [Undefined array key instance in ArgumentsResolver.php](https://blog.bitexpert.de/blog/magento_undefined_key_arguments_resolver)
 <!--- blog_end --->
 
 ## We are hiring
