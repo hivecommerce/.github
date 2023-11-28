@@ -15,7 +15,6 @@ Also, we love to share our thoughts and experiences in our [blog](https://blog.b
  - [My SyliusCon 2023 review](https://blog.bitexpert.de/blog/syliuscon2023_review)
  - [Deploying Sylius with Deployer](https://blog.bitexpert.de/blog/deploying_sylius_with_deployer)
  - [Avoid sending multiple invoice emails in Sylius](https://blog.bitexpert.de/blog/sylius_avoid_sending_multiple_invoice_emails)
- - [Sync Sylius order payment state to an invoice](https://blog.bitexpert.de/blog/sylius_invoice_sync_paymentstate)
 <!--- blog_end --->
 
 ## We are hiring
