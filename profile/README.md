@@ -14,7 +14,6 @@ Also, we love to share our thoughts and experiences in our [blog](https://blog.b
 <!--- blog_start --->
  - [Customize the Sylius Checkout](https://blog.bitexpert.de/blog/customize_sylius_checkout)
  - [What are Sylius Template Events?](https://blog.bitexpert.de/blog/sylius_template_events)
- - [My SyliusCon 2023 review](https://blog.bitexpert.de/blog/syliuscon2023_review)
 <!--- blog_end --->
 
 ## We are hiring
