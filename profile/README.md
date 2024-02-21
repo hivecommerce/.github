@@ -12,6 +12,7 @@ Once a year we organize [unKonf](https://www.unKonf.de) an unconference focussin
 
 Also, we love to share our thoughts and experiences in our [blog](https://blog.bitExpert.de). These are our latest blog posts covering digital sales topics:
 <!--- blog_start --->
+ - [Using DDEV for Sylius Plugin Development](https://blog.bitexpert.de/blog/using_ddev_for_sylius_plugin_development)
  - [Sylius Days Mannheim 2024](https://blog.bitexpert.de/blog/sylius_days_mannheim_2024)
  - [Customize the Sylius Checkout](https://blog.bitexpert.de/blog/customize_sylius_checkout)
  - [What are Sylius Template Events?](https://blog.bitexpert.de/blog/sylius_template_events)
