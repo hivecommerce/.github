@@ -16,7 +16,6 @@ Also, we love to share our thoughts and experiences in our [blog](https://blog.b
  - [Sylius Grid Deep Dive](https://blog.bitexpert.de/blog/sylius_grid_deep_dive)
  - [Using DDEV for Sylius Plugin Development](https://blog.bitexpert.de/blog/using_ddev_for_sylius_plugin_development)
  - [Sylius Days Mannheim 2024](https://blog.bitexpert.de/blog/sylius_days_mannheim_2024)
- - [Customize the Sylius Checkout](https://blog.bitexpert.de/blog/customize_sylius_checkout)
 <!--- blog_end --->
 
 ## We are hiring
