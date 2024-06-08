@@ -15,7 +15,6 @@ Also, we love to share our thoughts and experiences in our [blog](https://blog.b
  - [Adding wkhtmltopdf to the Sylius Alpine Docker image](https://blog.bitexpert.de/blog/sylius_docker_alpine_wkhtmltopdf)
  - [SymfonyLive Berlin 2024: Gally](https://blog.bitexpert.de/blog/symfony_live_berlin_2024)
  - [Sylius Grid Deep Dive](https://blog.bitexpert.de/blog/sylius_grid_deep_dive)
- - [Using DDEV for Sylius Plugin Development](https://blog.bitexpert.de/blog/using_ddev_for_sylius_plugin_development)
 <!--- blog_end --->
 
 ## We are hiring
