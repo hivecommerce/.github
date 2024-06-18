@@ -12,6 +12,7 @@ Once a year we organize [unKonf](https://www.unKonf.de) an unconference focussin
 
 Also, we love to share our thoughts and experiences in our [blog](https://blog.bitExpert.de). These are our latest blog posts covering digital sales topics:
 <!--- blog_start --->
+ - [Sylius Customer Force Login Module 0.1.0](https://blog.bitexpert.de/blog/sylius_force_login_0_1_0)
  - [Adding wkhtmltopdf to the Sylius Alpine Docker image](https://blog.bitexpert.de/blog/sylius_docker_alpine_wkhtmltopdf)
  - [SymfonyLive Berlin 2024: Gally](https://blog.bitexpert.de/blog/symfony_live_berlin_2024)
  - [Sylius Grid Deep Dive](https://blog.bitexpert.de/blog/sylius_grid_deep_dive)
